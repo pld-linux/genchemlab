@@ -4,6 +4,7 @@ Name:		genchemlab
 Version:	1.0
 Release:	1
 Source0:	http://dl.sourceforge.net/genchemlab/%{name}-%{version}.tgz
+# Source0-md5:	ef364cff3f3e2dba4c62a5d1a0084bae
 URL:		http://genchemlab.sourceforge.net/
 License:	GPL
 Group:		X11/Applications/Science
