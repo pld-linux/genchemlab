@@ -3,11 +3,11 @@ Summary(pl):	Ogólny symulator labolatorium chemicznego
 Name:		genchemlab
 Version:	1.0
 Release:	1
+License:	GPL
+Group:		X11/Applications/Science
 Source0:	http://dl.sourceforge.net/genchemlab/%{name}-%{version}.tgz
 # Source0-md5:	ef364cff3f3e2dba4c62a5d1a0084bae
 URL:		http://genchemlab.sourceforge.net/
-License:	GPL
-Group:		X11/Applications/Science
 BuildRequires:	automake
 BuildRequires:	qt-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -25,8 +25,8 @@ freezing point depression, vapor pressure, and spectrophotometry.
 %description -l pl
 GenChemLab jest bazuj±c± na OpenGL aplikacj± przeznaczon± do symulacji
 najpopularniejszych æwiczeñ chemicznych. Mo¿e byæ u¿ywana do
-przygotowania przez studentów do¶wiadczeñ w labolatorium, lub w
-miejscach gdzie labolatoria nie s± publicznie dostêpne jak nauka w
+przygotowania przez studentów do¶wiadczeñ w laboratorium, lub w
+miejscach gdzie laboratoria nie s± publicznie dostêpne jak nauka w
 szko³ach lub domu. Aktualnie s± obs³ugiwane eksperymenty takie jak
 miareczkowanie, kalorymetria, zmiana punktu zamra¿ania, ci¶nienie pary
 wodnej i spektrometria.
