@@ -14,4 +14,4 @@
  Name=GenChemLab
  Encoding=UTF-8
 -Categories=Application;Education;Chemestry;
-+Categories=Education;Science;Chemestry;
++Categories=Qt;Education;Science;Chemestry;
