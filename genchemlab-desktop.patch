@@ -1,0 +1,17 @@
+--- genchemlab-1.0/program/genchemlab.desktop~	2005-05-21 09:01:48.000000000 +0200
++++ genchemlab-1.0/program/genchemlab.desktop	2005-05-21 09:01:48.000000000 +0200
+@@ -3,9 +3,10 @@
+ Exec=genchemlab
+ Icon=genchemlab.png
+ DocPath=
+-Comment=Simulation of a chemical lab.
+-Comment[da]=Et simuleret kemisk laboratorium.
+-Terminal=0
++Comment=Simulation of a chemical lab
++Comment[da]=Et simuleret kemisk laboratorium
++Comment[pl]=Symulacja laboratorium chemicznego
++Terminal=false
+ Name=GenChemLab
+ Encoding=UTF-8
+-Categories=Application;Education;Chemestry;
++Categories=Education;Science;Chemestry;
