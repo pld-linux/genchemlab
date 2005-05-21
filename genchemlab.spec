@@ -2,11 +2,12 @@ Summary:	General Chemistry Lab Simulator - "GenChemLab"
 Summary(pl):	Ogólny symulator labolatorium chemicznego
 Name:		genchemlab
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Science
 Source0:	http://dl.sourceforge.net/genchemlab/%{name}-%{version}.tgz
 # Source0-md5:	ef364cff3f3e2dba4c62a5d1a0084bae
+Patch0:		%{name}-desktop.patch
 URL:		http://genchemlab.sourceforge.net/
 BuildRequires:	automake
 BuildRequires:	qt-devel
@@ -33,6 +34,7 @@ wodnej i spektrometria.
 
 %prep
 %setup -q
+%patch0 -p1
 
 %build
 cp -f /usr/share/automake/config.sub .
