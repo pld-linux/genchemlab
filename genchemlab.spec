@@ -2,7 +2,7 @@ Summary:	General Chemistry Lab Simulator - "GenChemLab"
 Summary(pl):	Ogólny symulator labolatorium chemicznego
 Name:		genchemlab
 Version:	1.0
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Applications/Science
 Source0:	http://dl.sourceforge.net/genchemlab/%{name}-%{version}.tgz
