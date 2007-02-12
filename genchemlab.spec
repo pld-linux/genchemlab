@@ -1,5 +1,5 @@
 Summary:	General Chemistry Lab Simulator - "GenChemLab"
-Summary(pl):	Ogólny symulator labolatorium chemicznego
+Summary(pl.UTF-8):   OgÃ³lny symulator labolatorium chemicznego
 Name:		genchemlab
 Version:	1.0
 Release:	3
@@ -23,13 +23,13 @@ K-12 schools or home schooling.
 At present, supported experiments include titration, calorimetry,
 freezing point depression, vapor pressure, and spectrophotometry.
 
-%description -l pl
-GenChemLab jest bazuj±c± na OpenGL aplikacj± przeznaczon± do symulacji
-najpopularniejszych æwiczeñ chemicznych. Mo¿e byæ u¿ywana do
-przygotowania przez studentów do¶wiadczeñ w laboratorium, lub w
-miejscach gdzie laboratoria nie s± publicznie dostêpne jak nauka w
-szko³ach lub domu. Aktualnie s± obs³ugiwane eksperymenty takie jak
-miareczkowanie, kalorymetria, zmiana punktu zamra¿ania, ci¶nienie pary
+%description -l pl.UTF-8
+GenChemLab jest bazujÄ…cÄ… na OpenGL aplikacjÄ… przeznaczonÄ… do symulacji
+najpopularniejszych Ä‡wiczeÅ„ chemicznych. MoÅ¼e byÄ‡ uÅ¼ywana do
+przygotowania przez studentÃ³w doÅ›wiadczeÅ„ w laboratorium, lub w
+miejscach gdzie laboratoria nie sÄ… publicznie dostÄ™pne jak nauka w
+szkoÅ‚ach lub domu. Aktualnie sÄ… obsÅ‚ugiwane eksperymenty takie jak
+miareczkowanie, kalorymetria, zmiana punktu zamraÅ¼ania, ciÅ›nienie pary
 wodnej i spektrometria.
 
 %prep
