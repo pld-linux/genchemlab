@@ -1,5 +1,5 @@
 Summary:	General Chemistry Lab Simulator - "GenChemLab"
-Summary(pl.UTF-8):   Ogólny symulator labolatorium chemicznego
+Summary(pl.UTF-8):	Ogólny symulator labolatorium chemicznego
 Name:		genchemlab
 Version:	1.0
 Release:	3
